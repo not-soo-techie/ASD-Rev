@@ -1,0 +1,18 @@
+{
+  "name": "ego-revision",
+  "version": "1.0.0",
+  "main": "ego.js",
+  "scripts": {
+    "dev": "node --watch ego.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
